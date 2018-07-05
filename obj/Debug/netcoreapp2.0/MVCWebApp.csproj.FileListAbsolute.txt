@@ -1,0 +1,11 @@
+/Users/rscata/Code/DotNetCore/MVCWebApp/bin/Debug/netcoreapp2.0/MVCWebApp.deps.json
+/Users/rscata/Code/DotNetCore/MVCWebApp/bin/Debug/netcoreapp2.0/MVCWebApp.runtimeconfig.json
+/Users/rscata/Code/DotNetCore/MVCWebApp/bin/Debug/netcoreapp2.0/MVCWebApp.runtimeconfig.dev.json
+/Users/rscata/Code/DotNetCore/MVCWebApp/bin/Debug/netcoreapp2.0/MVCWebApp.dll
+/Users/rscata/Code/DotNetCore/MVCWebApp/bin/Debug/netcoreapp2.0/MVCWebApp.pdb
+/Users/rscata/Code/DotNetCore/MVCWebApp/obj/Debug/netcoreapp2.0/MVCWebApp.csprojResolveAssemblyReference.cache
+/Users/rscata/Code/DotNetCore/MVCWebApp/obj/Debug/netcoreapp2.0/MVCWebApp.csproj.CoreCompileInputs.cache
+/Users/rscata/Code/DotNetCore/MVCWebApp/obj/Debug/netcoreapp2.0/MVCWebApp.AssemblyInfoInputs.cache
+/Users/rscata/Code/DotNetCore/MVCWebApp/obj/Debug/netcoreapp2.0/MVCWebApp.AssemblyInfo.cs
+/Users/rscata/Code/DotNetCore/MVCWebApp/obj/Debug/netcoreapp2.0/MVCWebApp.dll
+/Users/rscata/Code/DotNetCore/MVCWebApp/obj/Debug/netcoreapp2.0/MVCWebApp.pdb

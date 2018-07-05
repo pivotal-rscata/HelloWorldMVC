@@ -1,0 +1,12 @@
+/Users/rscata/Code/DotNetCore/MVCWebApp
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=MVCWebApp
+--content-root=/Users/rscata/Code/DotNetCore/MVCWebApp
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/Home/About.cshtml
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/Home/Contact.cshtml
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/Home/Index.cshtml
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/Shared/Error.cshtml
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/Shared/_Layout.cshtml
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/_ViewImports.cshtml
+--file=/Users/rscata/Code/DotNetCore/MVCWebApp/Views/_ViewStart.cshtml

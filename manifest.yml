@@ -1,0 +1,5 @@
+﻿---
+applications:
+- name: helloworldScata
+  buildpack: dotnet_core_buildpack
+instances: 1
